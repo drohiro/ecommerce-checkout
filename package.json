@@ -1,0 +1,25 @@
+{
+  "name": "ecommerce-checkout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drohiro/ecommerce-checkout.git"
+  },
+  "author": "drohiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drohiro/ecommerce-checkout/issues"
+  },
+  "homepage": "https://github.com/drohiro/ecommerce-checkout#readme",
+  "dependencies": {
+    "next": "^15.1.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
